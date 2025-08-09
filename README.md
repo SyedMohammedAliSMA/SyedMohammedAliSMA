@@ -4,7 +4,7 @@
 - 🔭 I build **practical AI that moves businesses forward** — from rapid prototypes to production-ready ML systems.  
 - 🌱 Currently exploring **Generative AI, LLM fine-tuning, and advanced Computer Vision**.  
 - 💡 Skilled in **deep learning, data-driven modelling, and ML system deployment**.  
-- 📫 Reach me at **something@gmail.com**  
+- 📫 Reach me at **asksyedmohammedali@gmail.com**  
 - ⚡ Fun fact: **AI still can’t make perfect biryani... yet 🍛**  
 
 ---
